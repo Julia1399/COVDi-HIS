@@ -14,4 +14,4 @@
 
 ![скрин главного экрана](/rm_img/RMScreen.png)
 
-<p style="color: #27379C;">Прогнамма разработана при помощи среды разработки MATLAB App Desidner c использованием языка MATLAB и базы данных SQLite</p>
+<p style="color: #27379C;">Программа разработана при помощи среды разработки MATLAB App Desidner c использованием языка MATLAB и базы данных SQLite</p>
